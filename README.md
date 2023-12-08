@@ -21,7 +21,7 @@ git clone https://github.com/JamesLoma/django-blog.git
 
 2. **Navigate to the project directory:**
 
-cd django-blog
+cd blog
 
 
 3. **Create a virtual environment:**
@@ -66,5 +66,4 @@ python manage.py runserver
 Contributions are welcome! If you find a bug or have a feature request, please open an issue. Feel free to submit pull requests with improvements or new features.
 
 ## License
-
-Django Blog is licensed under the MIT License. Refer to the LICENSE file for detailed information.
+Blog is licensed under the MIT License. Refer to the LICENSE file for detailed information.
